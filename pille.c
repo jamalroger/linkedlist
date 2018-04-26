@@ -1,3 +1,5 @@
+//this files is writing by jamal jamal roger | ESTSB 
+
 #include <stdio.h>
 #include <stdlib.h>
 
